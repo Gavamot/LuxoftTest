@@ -1,0 +1,14 @@
+<input>
+  <range>
+    <min>2</min>
+    <max>6</max>
+  </range>
+  <words>
+    <word>A</word>
+    <word>B</word>
+    <word>C</word>
+    <word>D</word>
+    <word>E</word>
+    <word>F</word>
+  </words>
+</input>

@@ -1,0 +1,14 @@
+<input>
+  <range>
+    <min>3</min>
+    <max>6</max>
+  </range>
+  <words>
+    <word>JOHN</word>
+    <word>TED</word>
+    <word>BILL</word>
+    <word>JACK</word>
+    <word>ALBERT</word>
+    <word>MAX</word>
+  </words>
+</input>

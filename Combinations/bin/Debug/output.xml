@@ -1,0 +1,61 @@
+﻿<input>
+  <combinations>
+    <combination>A B</combination>
+    <combination>A C</combination>
+    <combination>A D</combination>
+    <combination>A E</combination>
+    <combination>A F</combination>
+    <combination>B C</combination>
+    <combination>B D</combination>
+    <combination>B E</combination>
+    <combination>B F</combination>
+    <combination>C D</combination>
+    <combination>C E</combination>
+    <combination>C F</combination>
+    <combination>D E</combination>
+    <combination>D F</combination>
+    <combination>E F</combination>
+    <combination>A B C</combination>
+    <combination>A B D</combination>
+    <combination>A B E</combination>
+    <combination>A B F</combination>
+    <combination>A C D</combination>
+    <combination>A C E</combination>
+    <combination>A C F</combination>
+    <combination>A D E</combination>
+    <combination>A D F</combination>
+    <combination>A E F</combination>
+    <combination>B C D</combination>
+    <combination>B C E</combination>
+    <combination>B C F</combination>
+    <combination>B D E</combination>
+    <combination>B D F</combination>
+    <combination>B E F</combination>
+    <combination>C D E</combination>
+    <combination>C D F</combination>
+    <combination>C E F</combination>
+    <combination>D E F</combination>
+    <combination>A B C D</combination>
+    <combination>A B C E</combination>
+    <combination>A B C F</combination>
+    <combination>A B D E</combination>
+    <combination>A B D F</combination>
+    <combination>A B E F</combination>
+    <combination>A C D E</combination>
+    <combination>A C D F</combination>
+    <combination>A C E F</combination>
+    <combination>A D E F</combination>
+    <combination>B C D E</combination>
+    <combination>B C D F</combination>
+    <combination>B C E F</combination>
+    <combination>B D E F</combination>
+    <combination>C D E F</combination>
+    <combination>A B C D E</combination>
+    <combination>A B C D F</combination>
+    <combination>A B C E F</combination>
+    <combination>A B D E F</combination>
+    <combination>A C D E F</combination>
+    <combination>B C D E F</combination>
+    <combination>A B C D E F</combination>
+  </combinations>
+</input>
